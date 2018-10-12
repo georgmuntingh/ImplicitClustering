@@ -6,3 +6,5 @@ This repository contains a Jupyter notebook of the algorithm presented in [1], f
 The proposed method can recover algebraic hypersurfaces of any degree and is automatic, in the sense that all the required parameters, such as the implicit degree of the patches and the number of clusters of the model, are inferred. The efficiency of the algorithm is determined from numerical experiments.
 
 [1] A. Raffo, O.J.D. Barrowclough, G. Muntingh, _Reverse engineering of CAD models via clustering and approximate implicitization_, available on the arXiv.
+
+[![DOI](https://zenodo.org/badge/152376341.svg)](https://zenodo.org/badge/latestdoi/152376341)
